@@ -1,7 +1,7 @@
 # Store listing – Boussole
 
 Bundle ID / package: `com.boussole.boussole` · Version 1.0.0 (build 1)
-Privacy policy URL: `https://<github-user>.github.io/<repo>/privacy.html` (site in `docs/site/`, regenerate with `dart run tool/generate_legal_site.dart`).
+Privacy policy URL: `https://loss98.github.io/boussole/site/privacy.html` (site in `docs/site/`, regenerate with `dart run tool/generate_legal_site.dart`).
 Set `AppInfo.contactEmail` then regenerate the site before publishing.
 
 ## English
