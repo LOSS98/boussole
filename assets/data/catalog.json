@@ -1,0 +1,182 @@
+[
+ {
+  "symbol": "AAPL",
+  "name": "Apple",
+  "type": "stock",
+  "description": "Maker of the iPhone, Mac and a large services business. A mega-cap tech company."
+ },
+ {
+  "symbol": "MSFT",
+  "name": "Microsoft",
+  "type": "stock",
+  "description": "Software and cloud giant behind Windows, Office and Azure."
+ },
+ {
+  "symbol": "NVDA",
+  "name": "NVIDIA",
+  "type": "stock",
+  "description": "Designs the chips that power gaming and AI. Strong growth, large swings."
+ },
+ {
+  "symbol": "AMZN",
+  "name": "Amazon",
+  "type": "stock",
+  "description": "E-commerce and cloud computing (AWS) leader."
+ },
+ {
+  "symbol": "GOOGL",
+  "name": "Alphabet",
+  "type": "stock",
+  "description": "Parent of Google and YouTube; revenue mostly from advertising."
+ },
+ {
+  "symbol": "TSLA",
+  "name": "Tesla",
+  "type": "stock",
+  "description": "Electric vehicles and energy storage. Famous for sharp price moves."
+ },
+ {
+  "symbol": "JNJ",
+  "name": "Johnson & Johnson",
+  "type": "stock",
+  "description": "Healthcare group (pharma and medical devices). A classic defensive stock."
+ },
+ {
+  "symbol": "KO",
+  "name": "Coca-Cola",
+  "type": "stock",
+  "description": "Global beverage brand with steady revenue and regular dividends."
+ },
+ {
+  "symbol": "JPM",
+  "name": "JPMorgan Chase",
+  "type": "stock",
+  "description": "Largest US bank. Its price follows the economic cycle closely."
+ },
+ {
+  "symbol": "WMT",
+  "name": "Walmart",
+  "type": "stock",
+  "description": "World's largest retailer. Stable demand, even in downturns."
+ },
+ {
+  "symbol": "SPY",
+  "name": "SPDR S&P 500 ETF",
+  "type": "etf",
+  "description": "Tracks the 500 largest US companies in a single fund."
+ },
+ {
+  "symbol": "QQQ",
+  "name": "Invesco QQQ (Nasdaq 100)",
+  "type": "etf",
+  "description": "Tracks 100 big Nasdaq companies, heavy on technology."
+ },
+ {
+  "symbol": "VTI",
+  "name": "Vanguard Total US Market",
+  "type": "etf",
+  "description": "Owns almost the entire US stock market, from large to small caps."
+ },
+ {
+  "symbol": "VT",
+  "name": "Vanguard Total World",
+  "type": "etf",
+  "description": "Thousands of companies across the world in one fund. Maximum diversification."
+ },
+ {
+  "symbol": "VEA",
+  "name": "Vanguard Developed Markets",
+  "type": "etf",
+  "description": "Companies from Europe, Japan and other developed countries outside the US."
+ },
+ {
+  "symbol": "EEM",
+  "name": "iShares Emerging Markets",
+  "type": "etf",
+  "description": "Companies from emerging countries such as China, India and Brazil."
+ },
+ {
+  "symbol": "IWM",
+  "name": "iShares Russell 2000",
+  "type": "etf",
+  "description": "US small caps: smaller companies, usually more volatile than large ones."
+ },
+ {
+  "symbol": "AGG",
+  "name": "iShares Core US Bonds",
+  "type": "etf",
+  "description": "A basket of US bonds. Typically calmer than stocks, with lower growth."
+ },
+ {
+  "symbol": "GLD",
+  "name": "SPDR Gold Shares",
+  "type": "etf",
+  "description": "Follows the gold price. Often seen as a safe haven in uncertain times."
+ },
+ {
+  "symbol": "VNQ",
+  "name": "Vanguard Real Estate",
+  "type": "etf",
+  "description": "Listed real-estate companies (offices, housing, warehouses)."
+ },
+ {
+  "symbol": "BTC",
+  "name": "Bitcoin",
+  "type": "crypto",
+  "description": "The first and largest cryptocurrency. Digital, scarce, and very volatile."
+ },
+ {
+  "symbol": "ETH",
+  "name": "Ethereum",
+  "type": "crypto",
+  "description": "A programmable blockchain used for apps and tokens."
+ },
+ {
+  "symbol": "SOL",
+  "name": "Solana",
+  "type": "crypto",
+  "description": "A fast blockchain for apps. Young, ambitious and highly volatile."
+ },
+ {
+  "symbol": "BNB",
+  "name": "BNB",
+  "type": "crypto",
+  "description": "The token of the Binance ecosystem."
+ },
+ {
+  "symbol": "XRP",
+  "name": "XRP",
+  "type": "crypto",
+  "description": "A crypto designed for fast cross-border payments."
+ },
+ {
+  "symbol": "ADA",
+  "name": "Cardano",
+  "type": "crypto",
+  "description": "A research-driven blockchain platform."
+ },
+ {
+  "symbol": "DOGE",
+  "name": "Dogecoin",
+  "type": "crypto",
+  "description": "Started as a joke; moves mostly with social media hype."
+ },
+ {
+  "symbol": "AVAX",
+  "name": "Avalanche",
+  "type": "crypto",
+  "description": "A blockchain for apps focused on speed and low fees."
+ },
+ {
+  "symbol": "DOT",
+  "name": "Polkadot",
+  "type": "crypto",
+  "description": "Connects different blockchains together."
+ },
+ {
+  "symbol": "LINK",
+  "name": "Chainlink",
+  "type": "crypto",
+  "description": "Feeds real-world data to blockchains."
+ }
+]
