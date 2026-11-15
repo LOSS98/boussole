@@ -18,5 +18,5 @@ abstract final class AppInfo {
 
   /// Contact address shown in the legal documents. Fill it in before
   /// publishing the app; the contact line is hidden while it is empty.
-  static const contactEmail = '';
+  static const contactEmail = 'khalilmzoughi@icloud.com';
 }
